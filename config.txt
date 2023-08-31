@@ -1,0 +1,28 @@
+[Window]
+width = 800
+height = 600
+
+[Teapot]
+scale = 0.5
+
+[TeapotColor]
+red = 255.0
+green = 255.0
+blue = 255.0
+alpha = 255.0
+
+[GridColor]
+red = 0.0
+green = 0.0
+blue = 0.0
+
+[TeapotRotation]
+angle_x = 0
+angle_y = 0
+angle_z = 0
+
+[Smoothing]
+samples = 16
+
+[Grid]
+enabled = true
